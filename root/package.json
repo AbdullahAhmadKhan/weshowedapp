@@ -1,0 +1,19 @@
+{
+  "name": "weshowedapp",
+  "version": "1.0.0",
+  "description": "nasa spaceapps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdullahAhmadKhan/weshowedapp.git"
+  },
+  "author": "Abdulla Ahmadkhan, Anas Osman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdullahAhmadKhan/weshowedapp/issues"
+  },
+  "homepage": "https://github.com/AbdullahAhmadKhan/weshowedapp#readme"
+}
